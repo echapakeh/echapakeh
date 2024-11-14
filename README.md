@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Echa</h1>
-<h3 align="center">I want to be a frontend and hacker</h3>
+<h3 align="center">I want to be a bug hunter and programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echapakeh&label=Profile%20views&color=0e75b6&style=flat" alt="echapakeh" /> </p>
 
